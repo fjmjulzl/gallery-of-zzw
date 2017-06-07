@@ -8,4 +8,5 @@ react+webpack+es6
 
 打包 npm run build
 update 
-111111
+444444
+666666
