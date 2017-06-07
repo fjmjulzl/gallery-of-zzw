@@ -1,4 +1,4 @@
-gallery-of-zzw(在别人的基础之上修改的)
+﻿gallery-of-zzw(在别人的基础之上修改的)
 
 react+webpack+es6
 
@@ -8,4 +8,4 @@ react+webpack+es6
 
 打包 npm run build
 update 
-s
+sss
